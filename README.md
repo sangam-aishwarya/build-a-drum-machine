@@ -23,6 +23,10 @@ The drum machine includes:
 - Real-time display of the currently played sound
 - Audio playback using HTML audio elements
 
+## Preview
+
+![Markdown Converter Screenshot](screenshots/drum-machine-output.png)
+
 ## Technologies Used
 
 - HTML5
